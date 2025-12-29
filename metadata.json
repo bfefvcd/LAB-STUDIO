@@ -1,0 +1,8 @@
+{
+  "name": "AI Creativity Lab",
+  "description": "An experimental studio featuring Lyria RealTime for AI-driven music generation and Gemini Robotics for advanced object detection and spatial awareness.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
